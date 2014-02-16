@@ -34,11 +34,6 @@ void testApp::draw(){
 	ofColor color = ofColor::fromHsb(ofGetFrameNum()%255, 255, 255);
 	ofBackground( color );
 	
-	ofPopStyle();
-	//draw a circle so we can see something else underneath
-	ofSetColor(color.invert());
-	ofCircle(mouseX, mouseY, 15);
-	ofPushStyle();
 	
 	//start the shader. now everything that is drawn is piped 'through' this shader
 	shader.begin();
