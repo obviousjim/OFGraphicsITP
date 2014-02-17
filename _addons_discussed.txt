@@ -1,0 +1,8 @@
+https://github.com/patriciogonzalezvivo/ofxFX
+https://github.com/neilmendoza/ofxPostProcessing
+https://github.com/Akira-Hayasaka/ofxPSBlend
+https://github.com/Flightphase/ofxFTGL
+https://github.com/karldd/ofxARToolkitPlus
+https://github.com/julapy/ofxQCAR
+https://github.com/bgstaal/ofxShivaVG
+https://github.com/rezaali/ofxUI
